@@ -1,0 +1,35 @@
+_repo: The-Beckoning-Hand-and-Other-Stories_38531
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Allen, Grant
+    alias: Allen, Charles Grant Blairfindie
+    birthdate: 1848
+    deathdate: 1899
+    gutenberg_agent_id: '1452'
+    url: http://www.gutenberg.org/2009/agents/1452
+    wikipedia: http://en.wikipedia.org/wiki/Grant_Allen
+description: ''
+gutenberg_issued: '2012-01-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38531'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mystery fiction'
+- !lcsh 'Suspense fiction'
+- !lcc 'PR'
+- !lcsh 'Short stories'
+- !lcsh 'Horror tales'
+tableOfContents: The beckoning hand -- Lucretia -- The third time -- The gold Wulfric
+  -- My uncle's will -- The two Carnegies -- Olga Davidoff's husband -- John Cann's
+  treasure -- Isaline and I -- Professor Milliter's dilemma -- In strict confidence
+  -- The search party's find -- Harry's inheritance.
+title: The Beckoning Hand, and Other Stories
+url: http://www.gutenberg.org/ebooks/38531
